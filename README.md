@@ -11,11 +11,11 @@
 
 >#### Rename all pictures in the selected folder by name growing, based on their creation date.
 <br>
-![](https://quentium.fr/programs/Github/ImageRenaming.gif)
+<p align="center"><img src="https://quentium.fr/programs/Github/ImageRenaming.gif"></p>
 
 ## 📥 Installation
 
-- Download the source code [here](https://github.com/QuentiumYT/ImageRenaming/archive/master.zip) and run `ImageRenaming.pyw` on your computer (you will need socket, platform, psutil, wmi and ctypes modules)
+- Download the source code [here](https://github.com/QuentiumYT/ImageRenaming/archive/master.zip) and run `ImageRenaming.pyw` on your computer (no specific module required)
 - Download the 64bits compiled executable [here](https://quentium.fr/download.php?file=ImageRenaming.exe)!
 - Download the 32bits compiled executable [here](https://quentium.fr/download.php?file=ImageRenaming-32.exe)!
 
